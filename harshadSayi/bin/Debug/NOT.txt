@@ -1,0 +1,1 @@
+Sayýnýn harsad sayý olup olmadýðýný kontrol edip listeye ekleyen program

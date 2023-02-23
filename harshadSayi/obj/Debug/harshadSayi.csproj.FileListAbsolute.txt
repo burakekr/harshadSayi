@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\harshadSayi\obj\Debug\harshadSayi.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\harshadSayi\obj\Debug\harshadSayi.Form1.resources
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\harshadSayi\obj\Debug\harshadSayi.Properties.Resources.resources
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\harshadSayi\obj\Debug\harshadSayi.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\harshadSayi\obj\Debug\harshadSayi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\harshadSayi\bin\Debug\harshadSayi.exe.config
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\harshadSayi\bin\Debug\harshadSayi.exe
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\harshadSayi\bin\Debug\harshadSayi.pdb
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\harshadSayi\obj\Debug\harshadSayi.exe
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\harshadSayi\obj\Debug\harshadSayi.pdb
